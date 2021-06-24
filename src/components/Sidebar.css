@@ -1,0 +1,49 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  flex: 0.25;
+  background-color: #ffffff;
+  
+}
+.sidebar_header {
+  
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 310px;
+  height: 100px;
+  left: 10px;
+  top: 0px;
+  display: flex;
+  background-color: #ffffff;
+}
+.logo{
+    /* Subtract */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 17px;
+top: 17px;
+
+/* MySite logo gradient */
+
+}
+.mysite {
+  position: absolute;
+  width: 100px;
+  height: 21.31px;
+  left: 80px;
+  top: 26px;
+ 
+
+  
+}
+.sidebar_chats {
+  
+  display: flex;
+  flex-direction: column;
+
+
+  
+  background-color: #fcfbff;
+}
